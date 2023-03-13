@@ -54,9 +54,10 @@ There is currently only one administrator, who can add new posts, edit existing 
 
 **Database dumb file is included in** ***db_dump*** **folder.
 
-*For testing, admin credentials are*
+*For testing, admin credentials are:*
 * [**Username: *NemanjaDamjanovic***]
 * [**Password: *password***]
 
 
 
+## *Wish you Happy Testing and Coding!*
