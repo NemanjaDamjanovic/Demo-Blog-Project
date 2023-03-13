@@ -54,8 +54,8 @@ More admin permission can be added or changed in file *"app/Providers/AppService
 
 
 *For testing, admin credentials are:*
-* **Username: *NemanjaDamjanovic***
-* **Password: *password***
+* **Username:** *NemanjaDamjanovic*
+* **Password:** *password*
 
 **Database dump file is included in** ***"db_dump"* folder.**
 
