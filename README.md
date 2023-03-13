@@ -1,4 +1,6 @@
-## Demo Blog Project <img src="https://live.staticflickr.com/65535/52745588023_12304c8db3_w.jpg" alt="Path Of Developer Logo" width="250">
+## Demo Blog Project
+
+<img src="https://live.staticflickr.com/65535/52745588023_12304c8db3_w.jpg" alt="Path Of Developer Logo" width="250">
 
 ## Technologies used:
 
