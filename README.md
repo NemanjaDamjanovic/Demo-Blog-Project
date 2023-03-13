@@ -1,4 +1,4 @@
-![apathofdeveloper](https://ibb.co/DMv57cV)
+![apathofdeveloper](https://ibb.co/DMv57cV/logo.png)
 
 
 ## Demo Blog Project
