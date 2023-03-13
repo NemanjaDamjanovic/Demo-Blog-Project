@@ -9,6 +9,8 @@
 
 ## Demo Blog Project
 
+
+
 ### Installation
 
 Clone repository, install the dependencies, and setup your .env file.
@@ -18,13 +20,23 @@ git clone git@github.com:NemanjaDamjanovic/Demo-Blog-Project.git blog
 composer install
 cp .env.example .env
 ```
-
-
 Create database.
+```
+php artisan db
+create database blog
+```
+
+When done, run migradtion and seeder.
+```
+php artisan migrate --seed
+```
 
 
+## About
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+The Demo Blog Project consists of posts, each of which has an author and a category. If a user is signed in, they can comment on a post; otherwise, they must register or log in to their existing account.
+
+There is currently only one administrator, who can add new posts, edit existing posts, and delete posts.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
