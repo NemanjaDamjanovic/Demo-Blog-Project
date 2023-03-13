@@ -52,11 +52,12 @@ There is currently only one administrator, who can add new posts, edit existing 
 - [Delete Post]
 
 
-**Database dumb file is included in** ***db_dump*** **folder.
-
 *For testing, admin credentials are:*
 * [**Username: *NemanjaDamjanovic***]
 * [**Password: *password***]
+
+**Database dumb file is included in** ***db_dump*** **folder.
+
 
 __________________________________________________
 
