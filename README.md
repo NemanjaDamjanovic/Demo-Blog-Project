@@ -11,7 +11,7 @@
 
 ## Technologies used:
 
-* [PHP](#php)
+* [PHP](https://www.php.net/)
 * [Laravel](#laravel)
 * [HTML](#html)
 * [CSS(Tailwind)](#css-tailwind)
