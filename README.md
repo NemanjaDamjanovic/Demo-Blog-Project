@@ -1,4 +1,4 @@
-![apathofdeveloper](https://ibb.co/DMv57cV/logo.png)
+![apathofdeveloper](https://www.flickr.com/photos/197888621@N03/52745588023/in/dateposted-public/)
 
 
 ## Demo Blog Project
@@ -56,8 +56,8 @@ There is currently only one administrator, who can add new posts, edit existing 
 **Database dumb file is included in** ***db_dump*** **folder.
 
 *For testing, admin credentials are*
-**Username: *NemanjaDamjanovic***
-**Password: *password***
+* [**Username: *NemanjaDamjanovic***]
+* [**Password: *password***]
 
 
 
