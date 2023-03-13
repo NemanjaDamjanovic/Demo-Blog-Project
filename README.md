@@ -42,15 +42,15 @@ More admin permission can be added or changed in file *"app/Providers/AppService
 
 - Index Page
 - Login Page & Form
-- [Register Page & Form]
-- [User Page]
-- [Comment Section]
-- [Search by Category]
-- [Search by Custom Word]
-- [Admin Page]
-- [Adding New Post]
-- [Edit Existing Post]
-- [Delete Post]
+- Register Page & Form
+- User Page
+- Comment Section
+- Search by Category
+- Search by Custom Word
+- Admin Page
+- Adding New Post
+- Edit Existing Post
+- Delete Post
 
 
 *For testing, admin credentials are:*
