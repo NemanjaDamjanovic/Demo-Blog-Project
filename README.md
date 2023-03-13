@@ -40,8 +40,8 @@ More admin permission can be added or changed in file *"app/Providers/AppService
 
 ### Blog content and functionality.
 
-- [Index Page]
-- [Login Page & Form]
+- Index Page
+- Login Page & Form
 - [Register Page & Form]
 - [User Page]
 - [Comment Section]
