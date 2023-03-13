@@ -9,7 +9,13 @@
 
 ## Demo Blog Project
 
+## Technologies used:
 
+* [PHP](#php)
+* [Laravel](#laravel)
+* [HTML](#html)
+* [CSS(Tailwind)](#css-tailwind)
+* [JavaScript](#javascript)
 
 ### Installation
 
