@@ -36,6 +36,7 @@ php artisan migrate --seed
 The Demo Blog Project consists of posts, each of which has an author and a category. If a user is signed in, they can comment on a post; otherwise, they must register or log in to their existing account.
 
 There is currently only one administrator, who can add new posts, edit existing posts, and delete posts.
+More admin permission can be added or changed in file *"app/Providers/AppServiceProvider.php".
 
 ### Blog content and functionality.
 
