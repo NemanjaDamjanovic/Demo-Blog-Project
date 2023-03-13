@@ -56,7 +56,7 @@ There is currently only one administrator, who can add new posts, edit existing 
 * [**Username: *NemanjaDamjanovic***]
 * [**Password: *password***]
 
-**Database dumb file is included in** ***db_dump*** **folder.
+**Database dumb file is included in** ***"db_dump"* folder.**
 
 
 __________________________________________________
