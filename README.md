@@ -58,6 +58,7 @@ There is currently only one administrator, who can add new posts, edit existing 
 * [**Username: *NemanjaDamjanovic***]
 * [**Password: *password***]
 
-<div class="border border-top">
+__________________________________________________
+
 <h3><i>Wish you Happy Testing and Coding!</i></h3>
-<div>
+
