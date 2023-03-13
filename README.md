@@ -60,4 +60,4 @@ There is currently only one administrator, who can add new posts, edit existing 
 
 
 
-## *Wish you Happy Testing and Coding!*
+<h3><i>Wish you Happy Testing and Coding!</i></h3>
