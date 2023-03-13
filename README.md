@@ -13,9 +13,9 @@
 
 Clone repository, install the dependencies, and setup your .env file.
 
-git clone git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog
+```git clone git@github.com:NemanjaDamjanovic/Demo-Blog-Project.git blog
 composer install
-cp .env.example .env
+cp .env.example .env```
 
 
 Create database.
